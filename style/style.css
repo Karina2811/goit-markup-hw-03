@@ -37,8 +37,11 @@ ul{
 }
 
 /* Header */
+header .container{
+    display: flex;
+}
 .header{
-border-bottom: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
 }
 .nav{
     display: flex;
